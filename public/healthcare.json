@@ -1,0 +1,45 @@
+[
+    {
+       "id":"01",
+       "title": "Mumbai",
+       "image":"https://i.ibb.co/34WCY76/p-1.jpg",
+	   "price":"$360.00",  
+       "serviceInfo":"Mumbai is a tourist spot for people located in various parts of the world. Mumbai is also blessed with great amusement parks such as Fantasy land, Tikujiniwaadi, Essel World and Water Kingdom. The city is mainly the home to Bollywood. Almost all the famous starts of India reside in Mumbai in the suburbs."
+    },
+    {
+       "id":"02",
+       "title": "Hawaii",
+       "image":"https://i.ibb.co/n8tMmPp/p-2.jpg",
+	   "price":"$205.00",
+	   "docImg":"https://i.ibb.co/thQf3cp/doctor2.jpg",
+       "serviceInfo":"Hawaii is a state that attracts tourists because of its history, geography, entertainment, and culture. It is well known for its volcanoes, beaches, and climate. For these reasons, tourism is the main thing Hawaii is known for. Hawaii was recordivly discovered on January 18, 1778, by 2 explorers, James Cook and Captain Clerke."
+    },
+    {
+      "id":"03",
+       "title": "Sydney",
+       "image":"https://i.ibb.co/BZhD6b5/p-3.jpg",
+	   "price":"$300.00",
+        "serviceInfo":"The city of Sydney is on Australia’s southeast coast and along the Bay of Jackson. There stands the iconic landmarks Sydney Opera House, Harbour Bridge and the beaches filled with surfers and young people. It is the largest and most populous city in Australia and the state capital of New South Wales."
+    },
+    {
+      "id":"04",
+       "title": "Paris",
+       "image":"https://i.ibb.co/RNfyKFh/p-4.jpg",
+	   "price":"$200.00",
+       "serviceInfo":"Paris offers something for everyone. It boasts rich culture and art, both in museums and galleries as well as on streets and in theatres. Get captivated by rich palaces and romantic gardens. Explore the wide avenues and narrow cobbled streets where a new gem waits for travellers around every corner."
+    },
+	{
+      "id":"05",
+       "title": "Shanghai",
+       "image":"https://i.ibb.co/xM2WcsZ/p-5.jpg",
+	   "price":"$260.00",
+       "serviceInfo":"Shanghai is one of the rapidly growing cities of China due to its favorable physical position and socioeconomic development of the city. At the same time, Shanghai is the great attraction for tourists, who want to learn the history of China and its present." 
+    },
+	{
+      "id":"06",
+       "title": "Egypt",
+       "image":"https://i.ibb.co/xqmhv4Y/p-6.jpg",
+	   "price":"$445.00",
+       "serviceInfo": "Egyptian history is infinite and is one of the greatest inheritance from human civilization but Egypt is much more than just its thousands of years old Pyramids and monuments, Egypt is life itself and sure is a place that every human who can should once in their lifetime come visit." 
+    }
+]
