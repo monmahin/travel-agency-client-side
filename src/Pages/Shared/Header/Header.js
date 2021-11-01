@@ -6,6 +6,7 @@ import useAuth from '../../../Hook/useAuth';
 import './Header.css'
 const Header = () => {
   const { user, logOut } = useAuth()
+  // console.log(user)
     return (
       <Navbar  collapseOnSelect expand="lg" className="bg" variant="info" sticky="top">
       <Container>
@@ -29,7 +30,10 @@ const Header = () => {
                         
                          {user?.email ? <Button onClick={logOut}  variant='secondary' >Logout</Button> :
                          <Nav.Link as={Link} to="/login">Login</Nav.Link>
-                         }
+              }
+              {user?.email &&
+                            <Nav.Link> <img src={user.photoURL } alt="" width="30px" /> </Nav.Link>
+                        }
  
  
                          
