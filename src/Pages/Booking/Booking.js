@@ -30,7 +30,7 @@ const Booking = () => {
       <div className="card-body text-start h-100">
         
         <p className="card-text">{singleService?.serviceInfo}</p>
-                <h2>Price : {singleService.price}</h2>
+                <h2>Price :{singleService?.price} </h2>
            <br />                 
   
 <HashLink to='/home#sevices'><button className="btn btn-primary">Go to Service</button></HashLink>                            
