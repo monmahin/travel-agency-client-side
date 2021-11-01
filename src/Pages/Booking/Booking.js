@@ -21,7 +21,7 @@ const Booking = () => {
     return (
         <div className="mt-5">
             <div className="card mb-3 mx-auto container" >
-            <h1 className="card-title">{singleService?.title} Department</h1>
+            <h1 className="card-title">{singleService?.title}</h1>
   <div className="row g-0 align-items-center">
     <div className="col-md-6 h-100">
       <img src={singleService?.image} className="img-fluid" alt=""/>
@@ -30,8 +30,8 @@ const Booking = () => {
       <div className="card-body text-start h-100">
         
         <p className="card-text">{singleService?.serviceInfo}</p>
-                            <h2>Price List</h2>
-                            
+                <h2>Price : {singleService.price}</h2>
+           <br />                 
   
 <HashLink to='/home#sevices'><button className="btn btn-primary">Go to Service</button></HashLink>                            
         
