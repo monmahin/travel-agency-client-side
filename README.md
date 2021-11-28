@@ -11,6 +11,7 @@
 - **React Hook Form**
 - **FontAwesome Icons**
 - **firebase**
+- **Node js**
 - **mongobd server**
 - **Heroku app server**
 
