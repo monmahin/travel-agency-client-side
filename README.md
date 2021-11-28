@@ -28,7 +28,7 @@
 
 # Firebase Deployment
 
-## [Travel Agency Landing Page](https://healthcare-website-292.firebaseapp.com/).
+## [Travel Agency Landing Page](https://travel-agency-landing-page-242.web.app/).
 
 <hr/>
 
@@ -64,6 +64,6 @@
 
 [![Firebase Badge](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)](firebase)
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://img.shields.io/badge/)
-[![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com/19smabtahinoor)
+[![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com)
 
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](VSCODE)
